@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khaja Gareeb Nawaj S</h1>
+<h1 align="center">Hi 👋, I'm Khaja Gareeb Nawaz S</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align= "right" alt = "coding" width = "400" src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl1eDJqYXBsZmtxMWVoMnZ1OXhyOWx1dHY1ZHhyNjJ3Y242M3lyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 - 🌱 I’m currently learning **Java Full Stack Development**
