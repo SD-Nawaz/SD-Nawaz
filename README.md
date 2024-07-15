@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khaja Gareeb Nawaz S</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align= "right" alt = "coding" width = "400" src ="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
+
 - 🌱 I’m currently learning **Java Full Stack Development**
 
 - 💬 **At NXTWave's CCBP 4.0 Intensive, I’m currently learning full-stack development with a specialization in 4.0 technologies. In love with the coding challenges and hands-on projects. With industry's first ever IRC 4.0, getting ready to take on new challenges in the tech world.**
 
-- 📫 How to reach me **sayednawaz321@gmail.com**
+- 📫 Reach me **sayednawaz321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
